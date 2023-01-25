@@ -1,8 +1,9 @@
 # Restaurant-Level-Forecasting
 1)Took the dataset from the Featured Prediction competition on Kaggle which was originally published by Recruit Holdings.
+
 2)Did some sort of Data preprocessing, in order to proceed with the model training.
 
-# Time Series:
+# Time Series
 	1)By using the Dickey-Fuller test, found that data is not stationary.
 	2)Converted the dependent feature into stationary.
 	3)Approached the following classical time series models:
